@@ -67,9 +67,9 @@ type Config struct {
 	duringSecond int64
 }
 
-func main() {
+func (config *Config) main() {
 	//每300秒檢查過去十分鐘的記錄
-	Config.duringSecond = int64(300)
+	config.duringSecond = int64(300)
 
 	fileName2 := "exchange.json"
 	byteValue2 := detect.OpenJSONFile(fileName2)
