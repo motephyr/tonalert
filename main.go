@@ -65,13 +65,13 @@ var result struct {
 
 type Config struct {
 	duringSecond int64
-	recordSecond int64
+	recordSecond time.Duration
 }
 
 func (config *Config) main() {
 	//每300秒檢查過去十分鐘的記錄
 	config.duringSecond = int64(300)
-	config.recordSecond = int64(600)
+	config.recordSecond = time.Duration(600)
 
 	fileName2 := "exchange.json"
 	byteValue2 := detect.OpenJSONFile(fileName2)
@@ -114,7 +114,7 @@ func (config *Config) main() {
 
 		later := time.Now()
 		log.Println("later", later)
-		time.Sleep(time.Duration(duringSecond-(later.Unix()-now.Unix())) * time.Second)
+		time.Sleep(time.Duration(config.duringSecond-(later.Unix()-now.Unix())) * time.Second)
 
 	}
 
@@ -153,7 +153,7 @@ func pushToGithub() bool {
 	return false
 }
 
-func collectResult(now time.Time, exchange map[string]string) []map[string]any {
+func (config *Config) collectResult(now time.Time, exchange map[string]string) []map[string]any {
 	var wg sync.WaitGroup
 	var mux sync.Mutex
 
@@ -177,7 +177,7 @@ func collectResult(now time.Time, exchange map[string]string) []map[string]any {
 				if x.InMsg.Value != "0" {
 					during := time.Duration(now.Unix() - int64(x.Utime))
 					amount := detect.GetBalance(x.InMsg.Value, 9)
-					if during < 600 {
+					if during < config.recordSecond {
 						time := time.Unix(int64(x.Utime), 0)
 						log.Println("time", time)
 						mux.Lock()
