@@ -63,55 +63,21 @@ var result struct {
 	} `json:"result"`
 }
 
+type Config struct {
+	duringSecond int64
+}
+
 func main() {
-	duringSecond := int64(60)
+	//每300秒檢查過去十分鐘的記錄
+	Config.duringSecond = int64(300)
+
 	fileName2 := "exchange.json"
-	// if we os.Open returns an error then handle it
-	// defer the closing of our jsonFile so that we can parse it later on
 	byteValue2 := detect.OpenJSONFile(fileName2)
 	var exchange map[string]string
 	json.Unmarshal(byteValue2, &exchange)
 
-	// handle error
-	// a := []map[string]string{}
-	// a := []map[string]string{}
-	// for _, x := range result.Result {
-	// 	if x.InMsg.Value != "0" {
-	// 		time := time.Unix(int64(x.Utime), 0)
-	// 		finalResult = append(finalResult, map[string]string{
-	// 			"from":   x.InMsg.Source,
-	// 			"to":     v,
-	// 			"amount": x.InMsg.Value,
-	// 			"time":   time.String(),
-	// 		})
-	// 	}
-	// }
-	// a := [][]map[string]string{}
-	// for _, x := range result.Result {
-	// 	b := []map[string]string{}
-	// 	for _, y := range x.OutMsgs {
-	// 		b = append(b, map[string]string{
-	// 			"from":   y.Source,
-	// 			"to":     y.Destination,
-	// 			"amount": y.Value,
-	// 			"time":   strconv.Itoa(x.Utime),
-	// 		})
-	// 	}
-	// 	a = append(a, b)
-	// 	// a = append(a, map[string]string{
-	// 	// 	"from":   x.OutMsgs.Source,
-	// 	// 	"to":     x.OutMsgs.Destination,
-	// 	// 	"amount": x.OutMsgs.Value,
-	// 	// 	"time":   strconv.Itoa(x.Utime),
-	// 	// })
-	// }
-	// finalResult = append(finalResult, a)
-
 	fileName := "whale.json"
-	// if we os.Open returns an error then handle it
-	// defer the closing of our jsonFile so that we can parse it later on
 	byteValue := detect.OpenJSONFile(fileName)
-
 	var whale []string
 	json.Unmarshal(byteValue, &whale)
 
@@ -120,7 +86,6 @@ func main() {
 		log.Println("start")
 		now := time.Now()
 		log.Println("now", now)
-		//每60秒檢查過去十分鐘的記錄
 		finalResult := collectResult(now, exchange)
 		notice := []any{}
 		for _, x := range finalResult {
@@ -232,3 +197,38 @@ func collectResult(now time.Time, exchange map[string]string) []map[string]any {
 	wg.Wait()
 	return finalResult
 }
+
+// handle error
+// a := []map[string]string{}
+// a := []map[string]string{}
+// for _, x := range result.Result {
+// 	if x.InMsg.Value != "0" {
+// 		time := time.Unix(int64(x.Utime), 0)
+// 		finalResult = append(finalResult, map[string]string{
+// 			"from":   x.InMsg.Source,
+// 			"to":     v,
+// 			"amount": x.InMsg.Value,
+// 			"time":   time.String(),
+// 		})
+// 	}
+// }
+// a := [][]map[string]string{}
+// for _, x := range result.Result {
+// 	b := []map[string]string{}
+// 	for _, y := range x.OutMsgs {
+// 		b = append(b, map[string]string{
+// 			"from":   y.Source,
+// 			"to":     y.Destination,
+// 			"amount": y.Value,
+// 			"time":   strconv.Itoa(x.Utime),
+// 		})
+// 	}
+// 	a = append(a, b)
+// 	// a = append(a, map[string]string{
+// 	// 	"from":   x.OutMsgs.Source,
+// 	// 	"to":     x.OutMsgs.Destination,
+// 	// 	"amount": x.OutMsgs.Value,
+// 	// 	"time":   strconv.Itoa(x.Utime),
+// 	// })
+// }
+// finalResult = append(finalResult, a)
