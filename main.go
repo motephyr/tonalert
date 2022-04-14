@@ -66,6 +66,7 @@ var result struct {
 type Config struct {
 	duringSecond int64
 	recordSecond time.Duration
+	fileMutex    sync.Mutex
 }
 
 func main() {
@@ -85,7 +86,6 @@ func main() {
 	var whale []string
 	json.Unmarshal(byteValue, &whale)
 
-	var fileMutex sync.Mutex
 	for {
 		now := time.Now()
 		log.Println("start Now", now)
@@ -102,7 +102,7 @@ func main() {
 
 		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
 
-		writeResult(fileMutex, file)
+		config.writeResult(file)
 
 		shouldReturn := pushToGithub()
 		log.Println("shouldReturn", shouldReturn)
@@ -115,13 +115,13 @@ func main() {
 
 }
 
-func writeResult(fileMutex sync.Mutex, file []byte) {
-	fileMutex.Lock()
+func (config *Config) writeResult(file []byte) {
+	config.fileMutex.Lock()
 	err := ioutil.WriteFile("result.json", file, 0644)
 	if err != nil {
 		log.Println(err)
 	}
-	fileMutex.Unlock()
+	config.fileMutex.Unlock()
 }
 
 func pushToGithub() bool {
