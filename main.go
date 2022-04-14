@@ -2,10 +2,12 @@ package main
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"io/ioutil"
 	"log"
 	"net/http"
+	"os/exec"
 	"sync"
 	"time"
 
@@ -118,7 +120,8 @@ func main() {
 		log.Println("start")
 		now := time.Now()
 		log.Println("now", now)
-		finalResult := collectResult(now, exchange, duringSecond)
+		//每60秒檢查過去十分鐘的記錄
+		finalResult := collectResult(now, exchange)
 		notice := []any{}
 		for _, x := range finalResult {
 			str, _ := x["from"].(string)
@@ -129,9 +132,6 @@ func main() {
 			}
 		}
 
-		later := time.Now()
-		log.Println("later", later)
-
 		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
 		fileMutex.Lock()
 
@@ -140,14 +140,53 @@ func main() {
 			log.Println(err)
 		}
 		fileMutex.Unlock()
-		time.Sleep(time.Duration(duringSecond-(later.Unix()-now.Unix())) * time.Second)
 		log.Println("end")
+
+		shouldReturn := pushToGithub()
+		log.Println("shouldReturn", shouldReturn)
+
+		later := time.Now()
+		log.Println("later", later)
+		time.Sleep(time.Duration(duringSecond-(later.Unix()-now.Unix())) * time.Second)
 
 	}
 
 }
 
-func collectResult(now time.Time, exchange map[string]string, duringSecond int64) []map[string]any {
+func pushToGithub() bool {
+	cmd := exec.Command("git", "add", ".")
+	stdout, err := cmd.Output()
+
+	if err != nil {
+		fmt.Println(err.Error())
+		return true
+	}
+
+	fmt.Println(string(stdout))
+
+	cmd = exec.Command("git", "commit", "-m", "renew")
+	stdout, err = cmd.Output()
+
+	if err != nil {
+		fmt.Println(err.Error())
+		return true
+	}
+
+	fmt.Println(string(stdout))
+
+	cmd = exec.Command("git", "push")
+	stdout, err = cmd.Output()
+
+	if err != nil {
+		fmt.Println(err.Error())
+		return true
+	}
+
+	fmt.Println(string(stdout))
+	return false
+}
+
+func collectResult(now time.Time, exchange map[string]string) []map[string]any {
 	var wg sync.WaitGroup
 	var mux sync.Mutex
 
@@ -171,7 +210,7 @@ func collectResult(now time.Time, exchange map[string]string, duringSecond int64
 				if x.InMsg.Value != "0" {
 					during := time.Duration(now.Unix() - int64(x.Utime))
 					amount := detect.GetBalance(x.InMsg.Value, 9)
-					if during < time.Duration(duringSecond) {
+					if during < 600 {
 						time := time.Unix(int64(x.Utime), 0)
 						log.Println("time", time)
 						mux.Lock()
