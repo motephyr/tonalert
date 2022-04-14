@@ -87,9 +87,8 @@ func main() {
 
 	var fileMutex sync.Mutex
 	for {
-		log.Println("start")
 		now := time.Now()
-		log.Println("now", now)
+		log.Println("start Now", now)
 		finalResult := config.collectResult(now, exchange)
 		notice := []any{}
 		for _, x := range finalResult {
@@ -104,13 +103,12 @@ func main() {
 		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
 
 		writeResult(fileMutex, file)
-		log.Println("end")
 
 		shouldReturn := pushToGithub()
 		log.Println("shouldReturn", shouldReturn)
 
 		later := time.Now()
-		log.Println("later", later)
+		log.Println("end Later", later)
 		time.Sleep(time.Duration(config.duringSecond-(later.Unix()-now.Unix())) * time.Second)
 
 	}
