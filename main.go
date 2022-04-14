@@ -100,7 +100,7 @@ func main() {
 			}
 		}
 
-		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
+		file, _ := json.MarshalIndent(map[string]any{"notice": notice, "finalResult": finalResult}, "", " ")
 
 		config.writeResult(file)
 
