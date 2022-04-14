@@ -65,11 +65,13 @@ var result struct {
 
 type Config struct {
 	duringSecond int64
+	recordSecond int64
 }
 
 func (config *Config) main() {
 	//每300秒檢查過去十分鐘的記錄
 	config.duringSecond = int64(300)
+	config.recordSecond = int64(600)
 
 	fileName2 := "exchange.json"
 	byteValue2 := detect.OpenJSONFile(fileName2)
