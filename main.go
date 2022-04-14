@@ -68,10 +68,12 @@ type Config struct {
 	recordSecond time.Duration
 }
 
-func (config *Config) main() {
-	//每300秒檢查過去十分鐘的記錄
-	config.duringSecond = int64(300)
-	config.recordSecond = time.Duration(600)
+func main() {
+	//每5分鐘檢查過去十分鐘的記錄
+	config := Config{
+		duringSecond: int64(300),
+		recordSecond: time.Duration(600),
+	}
 
 	fileName2 := "exchange.json"
 	byteValue2 := detect.OpenJSONFile(fileName2)
@@ -88,7 +90,7 @@ func (config *Config) main() {
 		log.Println("start")
 		now := time.Now()
 		log.Println("now", now)
-		finalResult := collectResult(now, exchange)
+		finalResult := config.collectResult(now, exchange)
 		notice := []any{}
 		for _, x := range finalResult {
 			str, _ := x["from"].(string)
@@ -100,13 +102,8 @@ func (config *Config) main() {
 		}
 
 		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
-		fileMutex.Lock()
 
-		err := ioutil.WriteFile("result.json", file, 0644)
-		if err != nil {
-			log.Println(err)
-		}
-		fileMutex.Unlock()
+		writeResult(*fileMutex, file)
 		log.Println("end")
 
 		shouldReturn := pushToGithub()
@@ -118,6 +115,15 @@ func (config *Config) main() {
 
 	}
 
+}
+
+func writeResult(fileMutex *sync.Mutex, file []byte) {
+	fileMutex.Lock()
+	err := ioutil.WriteFile("result.json", file, 0644)
+	if err != nil {
+		log.Println(err)
+	}
+	fileMutex.Unlock()
 }
 
 func pushToGithub() bool {
