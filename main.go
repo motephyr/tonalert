@@ -69,7 +69,7 @@ type Config struct {
 }
 
 func main() {
-	//每5分鐘檢查過去十分鐘的記錄
+	//每5分鐘檢查過去10分鐘的記錄
 	config := Config{
 		duringSecond: int64(300),
 		recordSecond: time.Duration(600),
@@ -95,7 +95,7 @@ func main() {
 		for _, x := range finalResult {
 			str, _ := x["from"].(string)
 			amount, _ := x["amount"].(float64)
-			//是鯨魚位址而且大於2百萬的
+			//檢查是鯨魚位址而且大於2百萬的
 			if slices.StringContains(whale, str) && amount > 2000000 {
 				notice = append(notice, x)
 			}
@@ -103,7 +103,7 @@ func main() {
 
 		file, _ := json.MarshalIndent(map[string]any{"finalResult": finalResult, "notice": notice}, "", " ")
 
-		writeResult(*fileMutex, file)
+		writeResult(fileMutex, file)
 		log.Println("end")
 
 		shouldReturn := pushToGithub()
@@ -117,7 +117,7 @@ func main() {
 
 }
 
-func writeResult(fileMutex *sync.Mutex, file []byte) {
+func writeResult(fileMutex sync.Mutex, file []byte) {
 	fileMutex.Lock()
 	err := ioutil.WriteFile("result.json", file, 0644)
 	if err != nil {
