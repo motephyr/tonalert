@@ -173,27 +173,28 @@ func (config *Config) collectResult(now time.Time, exchange map[string]string) [
 
 			resp, err := http.Get("http://192.168.50.220/api/v2/getTransactions?address=" + k)
 			if err != nil {
+				log.Println(err)
+			} else {
+				defer resp.Body.Close()
+				body, _ := io.ReadAll(resp.Body)
 
-			}
-			defer resp.Body.Close()
-			body, err := io.ReadAll(resp.Body)
-
-			json.Unmarshal(body, &result)
-			for _, x := range result.Result {
-				if x.InMsg.Value != "0" {
-					during := time.Duration(now.Unix() - int64(x.Utime))
-					amount := detect.GetBalance(x.InMsg.Value, 9)
-					if during < config.recordSecond {
-						time := time.Unix(int64(x.Utime), 0)
-						log.Println("time", time)
-						mux.Lock()
-						finalResult = append(finalResult, map[string]any{
-							"from":   x.InMsg.Source,
-							"to":     v,
-							"amount": amount,
-							"time":   time.String(),
-						})
-						mux.Unlock()
+				json.Unmarshal(body, &result)
+				for _, x := range result.Result {
+					if x.InMsg.Value != "0" {
+						during := time.Duration(now.Unix() - int64(x.Utime))
+						amount := detect.GetBalance(x.InMsg.Value, 9)
+						if during < config.recordSecond {
+							time := time.Unix(int64(x.Utime), 0)
+							log.Println("time", time)
+							mux.Lock()
+							finalResult = append(finalResult, map[string]any{
+								"from":   x.InMsg.Source,
+								"to":     v,
+								"amount": amount,
+								"time":   time.String(),
+							})
+							mux.Unlock()
+						}
 					}
 				}
 			}
