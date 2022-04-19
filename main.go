@@ -94,8 +94,8 @@ func main() {
 		for _, x := range finalResult {
 			str, _ := x["from"].(string)
 			amount, _ := x["amount"].(float64)
-			//檢查是鯨魚位址而且大於2百萬的
-			if slices.StringContains(whale, str) && amount > 2000000 {
+			//檢查是鯨魚位址或大於2百萬的
+			if slices.StringContains(whale, str) || amount > 2000000 {
 				notice = append(notice, x)
 			}
 		}
