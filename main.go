@@ -96,6 +96,7 @@ func main() {
 			amount, _ := x["amount"].(float64)
 			//檢查是鯨魚位址或大於2百萬的
 			if slices.StringContains(whale, str) || amount > 2000000 {
+				log.Println(x)
 				notice = append(notice, x)
 			}
 		}
@@ -183,7 +184,7 @@ func (config *Config) collectResult(now time.Time, exchange map[string]string) [
 						amount := detect.GetBalance(x.InMsg.Value, 9)
 						if during < config.recordSecond {
 							time := time.Unix(int64(x.Utime), 0)
-							log.Println("time", time)
+							// log.Println("time", time)
 							mux.Lock()
 							finalResult = append(finalResult, map[string]any{
 								"from":   x.InMsg.Source,
