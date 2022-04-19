@@ -95,8 +95,8 @@ func main() {
 			str, _ := x["from"].(string)
 			amount, _ := x["amount"].(float64)
 			//檢查是鯨魚位址或大於2百萬的
+			log.Println(x)
 			if slices.StringContains(whale, str) || amount > 2000000 {
-				log.Println(x)
 				notice = append(notice, x)
 			}
 		}
