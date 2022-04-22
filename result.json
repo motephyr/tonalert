@@ -1,76 +1,34 @@
 {
  "finalResult": [
   {
-   "amount": 4.968478,
-   "from": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
-   "time": "2022-04-23 02:36:26 +0800 CST",
-   "to": "Bridge Oracle 0"
+   "amount": 2.1,
+   "from": "EQDzgwpmraZVMCyHndPXi5Osr2U54vkpwH2rbGwJnRfQFSJc",
+   "time": "2022-04-23 02:45:38 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 4.969578,
-   "from": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
-   "time": "2022-04-23 02:35:03 +0800 CST",
-   "to": "Bridge Oracle 5"
+   "amount": 12.24,
+   "from": "EQAsTBYgp8wYtWB9Y7vDaw8LRr2BPFpUeiWA1Fz-Tjg9y1s6",
+   "time": "2022-04-23 02:44:55 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 4.968278,
-   "from": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
-   "time": "2022-04-23 02:35:03 +0800 CST",
-   "to": "Bridge Oracle 4"
+   "amount": 4.5,
+   "from": "EQCNUrUVFQC2cp7AgcXfXZHTc8LcX6w_ZtGti1-GPl0iZUDo",
+   "time": "2022-04-23 02:44:21 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 4.969578,
-   "from": "EQCuzvIOXLjH2tv35gY4tzhIvXCqZWDuK9kUhFGXKLImgxT5",
-   "time": "2022-04-23 02:35:03 +0800 CST",
-   "to": "Bridge Oracle 3"
+   "amount": 8.65,
+   "from": "EQDntHk1GVcyxe_OAOjm7rEG2tYvOrcdlrvbcSzIeU3ObNnj",
+   "time": "2022-04-23 02:43:30 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 14,
-   "from": "EQBAAocAyjh3TTLZ1kK6N-3FzWCiZqrighOF3UqE_yCRAIzF",
-   "time": "2022-04-23 02:35:29 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 14,
-   "from": "EQBAAocAyjh3TTLZ1kK6N-3FzWCiZqrighOF3UqE_yCRAIzF",
-   "time": "2022-04-23 02:35:29 +0800 CST",
-   "to": "EXMO Deposit"
-  },
-  {
-   "amount": 12,
-   "from": "EQDtEO0kkhOVhSCEBIdxUcVLQQzE18G5FZBz3pkbnRKKk0f8",
-   "time": "2022-04-23 02:40:18 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 49.54,
-   "from": "EQAIGp5-RuGELjXgOJrA9PbbWwZA7izm2V7Tnwgw3_4kIrIj",
-   "time": "2022-04-23 02:40:08 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 26,
-   "from": "EQAvD2e8SPQcXAUWqDt_CPmxmmz-AbFGw3siNzQgvOVr1qIa",
-   "time": "2022-04-23 02:38:15 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 10.12,
-   "from": "EQDNdrNQ9XeY8IsTfsVgcr5oigNkdXy6cj-nE77F0kOSb6UI",
-   "time": "2022-04-23 02:35:22 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 18.4,
-   "from": "EQCx-vf5W13P48u3w-JV56f4-X9WqYA9Yz2XlkDfDgKD3r62",
-   "time": "2022-04-23 02:33:13 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 13.99434998,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-04-23 02:36:23 +0800 CST",
-   "to": "EXMO"
+   "amount": 59.54,
+   "from": "EQByrVsa6SXmpBtxooLeLL0CUKaD_4OyJDHI2yYXOyEd2bxB",
+   "time": "2022-04-23 02:42:47 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 5.2,
@@ -103,76 +61,22 @@
    "to": "FTX"
   },
   {
-   "amount": 2.38,
-   "from": "EQAy7zv29lohPitbT2H0MPypNnyGs73VaXLclWBcLAcwufSk",
-   "time": "2022-04-23 02:36:05 +0800 CST",
-   "to": "FTX"
+   "amount": 12,
+   "from": "EQDtEO0kkhOVhSCEBIdxUcVLQQzE18G5FZBz3pkbnRKKk0f8",
+   "time": "2022-04-23 02:40:18 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 1,
-   "from": "EQDXoLISLjax61J8-2_XKFjA4zKLsOkH1zX-4f50P1vZHMyB",
-   "time": "2022-04-23 02:35:45 +0800 CST",
-   "to": "FTX"
+   "amount": 49.54,
+   "from": "EQAIGp5-RuGELjXgOJrA9PbbWwZA7izm2V7Tnwgw3_4kIrIj",
+   "time": "2022-04-23 02:40:08 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 18.97,
-   "from": "EQC8Y1HWoOKOpSxI_HjZhuNs1ZoahnHnoMrBUjVd1_4hETB3",
-   "time": "2022-04-23 02:35:11 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 20.7,
-   "from": "EQCanbem362KL9qzc2CvryV7XpHQeYcpjsQtXNJqEPsds2Zl",
-   "time": "2022-04-23 02:34:56 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 1,
-   "from": "EQAEWL_kr_2V9oIcRY4gwjOlZFwXRz5JnbGyF7zd1bgnuN_W",
-   "time": "2022-04-23 02:34:03 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 5,
-   "from": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
-   "time": "2022-04-23 02:36:17 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
-   "time": "2022-04-23 02:34:56 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
-   "time": "2022-04-23 02:34:56 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
-   "time": "2022-04-23 02:34:56 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
-   "time": "2022-04-23 02:34:56 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
-   "time": "2022-04-23 02:34:48 +0800 CST",
-   "to": "ETH Bridge Collector"
-  },
-  {
-   "amount": 10,
-   "from": "EQBMf9GcNeAX61Kx0zlo6nUoSo2vBbHZLJyJzRl0lwQ9mVlA",
-   "time": "2022-04-23 02:34:26 +0800 CST",
-   "to": "ETH Bridge"
+   "amount": 26,
+   "from": "EQAvD2e8SPQcXAUWqDt_CPmxmmz-AbFGw3siNzQgvOVr1qIa",
+   "time": "2022-04-23 02:38:15 +0800 CST",
+   "to": "OKX"
   }
  ],
  "notice": []
