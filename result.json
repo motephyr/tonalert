@@ -1,52 +1,16 @@
 {
  "finalResult": [
   {
-   "amount": 13.5,
-   "from": "EQCEjX3loEGUEevMLfRR1YCQJZtm20u3eFWVmDymKDnl64XC",
-   "time": "2022-04-26 10:46:18 +0800 CST",
+   "amount": 8.6,
+   "from": "EQDkWfT0IrayM5JjoW9LkBp6DM66L44QRmA2A7TTsDcJlTXp",
+   "time": "2022-04-26 10:50:59 +0800 CST",
    "to": "FTX"
   },
   {
    "amount": 13.5,
    "from": "EQCEjX3loEGUEevMLfRR1YCQJZtm20u3eFWVmDymKDnl64XC",
    "time": "2022-04-26 10:46:18 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 25.6,
-   "from": "EQDhYBdfiVp8NSFDNivcy8ERtH2iaTTVErV1rATSmzgqrL_X",
-   "time": "2022-04-26 10:43:41 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 17.4,
-   "from": "EQC5H9Y0PKlhlWos8--byHUrYTy6PR1gaQB-5Gond7sxz4_O",
-   "time": "2022-04-26 10:42:44 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 7.95,
-   "from": "EQBYQRdbvTQgdbLufujwua-lKGWaWdzTDG1o24M8H0GQ00hY",
-   "time": "2022-04-26 10:42:20 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 19.547,
-   "from": "EQDh0G1RlD_nQybuljJvWEMT1Ih8GgBoHAilV1aIJCrVNcON",
-   "time": "2022-04-26 10:42:20 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 66.83,
-   "from": "EQBG_Q-y5UNontXdKodMmmJlQiJePswuF5EXt-C8hudASuTb",
-   "time": "2022-04-26 10:39:33 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 2.72,
-   "from": "EQBwswIsD21SVj_R3DOx7sJavgE34qniITZSM90yT4Qe4Xzo",
-   "time": "2022-04-26 10:38:16 +0800 CST",
-   "to": "BSC Bridge Collector"
+   "to": "FTX"
   },
   {
    "amount": 25.6,
@@ -70,18 +34,6 @@
    "amount": 19.547,
    "from": "EQDh0G1RlD_nQybuljJvWEMT1Ih8GgBoHAilV1aIJCrVNcON",
    "time": "2022-04-26 10:42:20 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 66.83,
-   "from": "EQBG_Q-y5UNontXdKodMmmJlQiJePswuF5EXt-C8hudASuTb",
-   "time": "2022-04-26 10:39:33 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 2.72,
-   "from": "EQBwswIsD21SVj_R3DOx7sJavgE34qniITZSM90yT4Qe4Xzo",
-   "time": "2022-04-26 10:38:16 +0800 CST",
    "to": "FTX"
   }
  ],
