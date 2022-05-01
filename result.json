@@ -1,46 +1,10 @@
 {
  "finalResult": [
   {
-   "amount": 53,
-   "from": "EQBdPqI96Z1A8Bz3XWYl9bCHUUNABQmHJRlufpq33FshreZW",
-   "time": "2022-05-02 03:06:05 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 8.8,
-   "from": "EQBsPpA-KL5quhzvGe3uvWhLoXokvt2Mu94QTRj5DSIZZOhL",
-   "time": "2022-05-02 03:05:50 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 53,
-   "from": "EQBdPqI96Z1A8Bz3XWYl9bCHUUNABQmHJRlufpq33FshreZW",
-   "time": "2022-05-02 03:06:05 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 8.8,
-   "from": "EQBsPpA-KL5quhzvGe3uvWhLoXokvt2Mu94QTRj5DSIZZOhL",
-   "time": "2022-05-02 03:05:50 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 4.967703,
-   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
-   "time": "2022-05-02 02:58:44 +0800 CST",
-   "to": "Bridge Oracle 5"
-  },
-  {
-   "amount": 4.967103,
-   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
-   "time": "2022-05-02 03:04:56 +0800 CST",
-   "to": "Bridge Oracle 3"
-  },
-  {
-   "amount": 14.99434197,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-05-02 03:06:05 +0800 CST",
-   "to": "EXMO"
+   "amount": 14.4,
+   "from": "EQBzEr25g1ITZQH8u2p0sJhGZHSyuSnBZdPSvhgbed2aElmR",
+   "time": "2022-05-02 03:12:48 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 9.3,
@@ -61,76 +25,34 @@
    "to": "FTX"
   },
   {
-   "amount": 35,
-   "from": "EQDMHvA5KEaeZmKRI1uFnY3LqABIF3jPwBOy9TlSHF3_eOo0",
-   "time": "2022-05-02 03:03:23 +0800 CST",
-   "to": "FTX"
+   "amount": 4.27,
+   "from": "EQDmTGNMmXjJY9GKv_J0sEPCiCJAioAA8W0rN7SwNUAmfHsq",
+   "time": "2022-05-02 03:12:48 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 7.78,
-   "from": "EQB0H8861IsR_2ZwShtKslmH6rSz0Zo7g0jse_sk_3Z-bEun",
-   "time": "2022-05-02 02:58:53 +0800 CST",
-   "to": "FTX"
+   "amount": 1.9,
+   "from": "EQCiuejaxjCCvxJp4ghfL3xTj4CvHHOghEM1r_YLlwkkYc4i",
+   "time": "2022-05-02 03:12:48 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 97,
-   "from": "EQCgTUOHNXefEuZo6JiZZAAZ9lhANihQSeSzkv2fWOH_H8iM",
-   "time": "2022-05-02 02:58:50 +0800 CST",
-   "to": "FTX"
+   "amount": 53,
+   "from": "EQBdPqI96Z1A8Bz3XWYl9bCHUUNABQmHJRlufpq33FshreZW",
+   "time": "2022-05-02 03:06:05 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 4.966403,
-   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
-   "time": "2022-05-02 02:58:44 +0800 CST",
-   "to": "Bridge Oracle 1"
+   "amount": 8.8,
+   "from": "EQBsPpA-KL5quhzvGe3uvWhLoXokvt2Mu94QTRj5DSIZZOhL",
+   "time": "2022-05-02 03:05:50 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 4.967203,
-   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
-   "time": "2022-05-02 02:58:44 +0800 CST",
-   "to": "Bridge Oracle 0"
-  },
-  {
-   "amount": 4.968522,
-   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
-   "time": "2022-05-02 02:58:44 +0800 CST",
-   "to": "Bridge Oracle 4"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
-   "time": "2022-05-02 02:59:38 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
-   "time": "2022-05-02 02:58:40 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
-   "time": "2022-05-02 02:58:40 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
-   "time": "2022-05-02 02:58:40 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
-   "time": "2022-05-02 02:58:40 +0800 CST",
-   "to": "BSC Bridge Collector"
-  },
-  {
-   "amount": 5,
-   "from": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
-   "time": "2022-05-02 02:58:40 +0800 CST",
-   "to": "BSC Bridge Collector"
+   "amount": 17,
+   "from": "EQATUiXvoNt7j1VBZT6RBG4HotVG8OcIbDT-E1PqX5MZXtPE",
+   "time": "2022-05-02 03:05:10 +0800 CST",
+   "to": "OKX"
   }
  ],
  "notice": []
