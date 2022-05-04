@@ -1,6 +1,12 @@
 {
  "finalResult": [
   {
+   "amount": 5.7,
+   "from": "EQCW_jQe2-dQw9uBAewIbZhIOe8GmpbaGjyFaRosd72_WH2D",
+   "time": "2022-05-04 10:28:36 +0800 CST",
+   "to": "OKX"
+  },
+  {
    "amount": 10.83,
    "from": "EQCo5aLqaR0FIufc0ZlFV53kkrKej0_4ajJoLASg8r3A22OH",
    "time": "2022-05-04 10:22:45 +0800 CST",
@@ -22,18 +28,6 @@
    "amount": 7.3,
    "from": "EQADvlWkLmsWEZam_L2h3eGljbELFw1XBrGjFi95HZkqilze",
    "time": "2022-05-04 10:21:11 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 16,
-   "from": "EQCdKFBDTUN3gG-2dBwmoEurPeoT0L9kwnJyF3Y__UVK2dVM",
-   "time": "2022-05-04 10:18:33 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 52,
-   "from": "EQBg1cQYFRYcFxY5lXnYQlGpWNJ1kQ5lAzANnqc7xdc_bY9p",
-   "time": "2022-05-04 10:15:15 +0800 CST",
    "to": "OKX"
   },
   {
@@ -64,36 +58,6 @@
    "amount": 5.7,
    "from": "EQCoTQ9p2VyeeUN7PNR8v_gNbo3TGDfM1eI75N8zLcnyRtsO",
    "time": "2022-05-04 10:20:08 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 1.25,
-   "from": "EQCQApXA8WB6EpmdtBLQQh1PIXkTyzAu5LSmAkdmc-EnuRKj",
-   "time": "2022-05-04 10:18:22 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 7.3,
-   "from": "EQB4uBLgT1eT27qxlMGCqJ43aCSLhSvcdMC0y8G04EIaUW9n",
-   "time": "2022-05-04 10:18:03 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 40.9,
-   "from": "EQDNs7Prq2qFOESvQ22uMQlqeySSh_8lt-aOt1enklgY8OIj",
-   "time": "2022-05-04 10:17:38 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 31,
-   "from": "EQAI20v3aiAORU9IzmGqUpWkuApb87yUMKGtR5oE5qLvEVP4",
-   "time": "2022-05-04 10:16:14 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 14.6,
-   "from": "EQCrRVYfSPUKwP2lFhuib5NLqoCJaP5NO6EFCXMVBQRTiUMZ",
-   "time": "2022-05-04 10:15:31 +0800 CST",
    "to": "FTX"
   }
  ],
