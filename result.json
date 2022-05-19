@@ -1,6 +1,12 @@
 {
  "finalResult": [
   {
+   "amount": 22,
+   "from": "EQCW0lZXBdwNbkIDKdB_rbYCRDlSCAA6c_HoopPsCiSr9LBA",
+   "time": "2022-05-19 09:55:06 +0800 CST",
+   "to": "OKX"
+  },
+  {
    "amount": 9,
    "from": "EQCH-keLYQ_0FhL1RlSmFvvquX-wGsBFU5F8wfR59IeFVURq",
    "time": "2022-05-19 09:52:27 +0800 CST",
@@ -19,46 +25,10 @@
    "to": "OKX"
   },
   {
-   "amount": 57,
-   "from": "EQChhT5b0HzqEJlAnEJVnRpgvyuyBJmm8LE0ZnrPd6gJJlS3",
-   "time": "2022-05-19 09:47:50 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 16,
-   "from": "EQCl9J81zC9nKdzngCdZQA3C8N81Op8oqgcy-nMQq4x9IswR",
-   "time": "2022-05-19 09:47:44 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 1,
-   "from": "EQDKz5-yhoy1-KwsNtPD6O6lLLs1XQwesLT1tc4x4reY6Cax",
-   "time": "2022-05-19 09:46:04 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 2.231,
-   "from": "EQB8o3Zlygsls_cTu2T0G4zIkSceaNQLYdVdVYOtE9xYhlSC",
-   "time": "2022-05-19 09:52:27 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 84.99,
-   "from": "EQCuYlfn62WUgei_hYFpOgqvFrM6ZKJK-I35H9jZGtED0nOm",
-   "time": "2022-05-19 09:50:20 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 1.08,
-   "from": "EQDtP7hoIYpnWlfBrVXZ3v8IYD90wWRreOn6axFjKFGTKcLb",
-   "time": "2022-05-19 09:47:25 +0800 CST",
-   "to": "Bridge Oracle 2"
-  },
-  {
-   "amount": 420,
-   "from": "EQBD9NGGwopAJK71cyP10VVsO_7NsTE0A9a8T7uU1Zun3sLz",
-   "time": "2022-05-19 09:47:25 +0800 CST",
-   "to": "Bridge Oracle 2"
+   "amount": 0.62,
+   "from": "EQDqv9kdcQ0r9oJKQDUhmxBbWjUClZNVMSK1MlUjwc5ZBWXe",
+   "time": "2022-05-19 09:56:16 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 2.231,
@@ -70,18 +40,6 @@
    "amount": 84.99,
    "from": "EQCuYlfn62WUgei_hYFpOgqvFrM6ZKJK-I35H9jZGtED0nOm",
    "time": "2022-05-19 09:50:20 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 1.08,
-   "from": "EQDtP7hoIYpnWlfBrVXZ3v8IYD90wWRreOn6axFjKFGTKcLb",
-   "time": "2022-05-19 09:47:25 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 420,
-   "from": "EQBD9NGGwopAJK71cyP10VVsO_7NsTE0A9a8T7uU1Zun3sLz",
-   "time": "2022-05-19 09:47:25 +0800 CST",
    "to": "FTX"
   }
  ],
