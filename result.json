@@ -1,46 +1,22 @@
 {
  "finalResult": [
   {
-   "amount": 6.327163545,
-   "from": "EQCS3WDI6wAVmk325sxn22K61vt1YpYhM3DsNntDSvSX637c",
-   "time": "2022-05-20 01:26:35 +0800 CST",
-   "to": "Bridge Oracle 0"
-  },
-  {
-   "amount": 23.5,
-   "from": "EQDLGHeHl4mTdKvFxpYrZLTQuxP3X-IYRQgMTLdbmnVd4sAY",
-   "time": "2022-05-20 01:24:49 +0800 CST",
-   "to": "Bridge Oracle 0"
-  },
-  {
-   "amount": 7.4,
-   "from": "EQCKxzdDSRpt27jxy38Y8aPE_N0Cailx_tLWGsN1CWV9CLqx",
-   "time": "2022-05-20 01:23:01 +0800 CST",
-   "to": "Bridge Oracle 0"
-  },
-  {
-   "amount": 6.327163545,
-   "from": "EQCS3WDI6wAVmk325sxn22K61vt1YpYhM3DsNntDSvSX637c",
-   "time": "2022-05-20 01:26:35 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 23.5,
-   "from": "EQDLGHeHl4mTdKvFxpYrZLTQuxP3X-IYRQgMTLdbmnVd4sAY",
-   "time": "2022-05-20 01:24:49 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 7.4,
-   "from": "EQCKxzdDSRpt27jxy38Y8aPE_N0Cailx_tLWGsN1CWV9CLqx",
-   "time": "2022-05-20 01:23:01 +0800 CST",
-   "to": "FTX"
+   "amount": 3452.98,
+   "from": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
+   "time": "2022-05-20 01:27:03 +0800 CST",
+   "to": "EXMO Deposit"
   },
   {
    "amount": 3452.97434994,
    "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
    "time": "2022-05-20 01:28:28 +0800 CST",
    "to": "EXMO"
+  },
+  {
+   "amount": 8.39,
+   "from": "EQCsiE5yXIfkdBooc1Ts0oQn_lZk6z96CZSoq0Q1oGJlM69X",
+   "time": "2022-05-20 01:33:52 +0800 CST",
+   "to": "OKX"
   },
   {
    "amount": 0.3,
@@ -73,40 +49,40 @@
    "to": "OKX"
   },
   {
-   "amount": 70.8,
-   "from": "EQAnNM7F7AvBUND64DckIspPc774dfqBAih3DoT0m16wR9I6",
-   "time": "2022-05-20 01:26:17 +0800 CST",
-   "to": "OKX"
+   "amount": 2.5,
+   "from": "EQDhiak6si1t4b4k8xUFoKm7VqTTrzNgopNHQ61mm1YBc1xU",
+   "time": "2022-05-20 01:35:30 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 25.8,
-   "from": "EQBPAfRc23ZgVanVKPgVbtDAsT3q-I7IFtCTuB5FpKGU_c6J",
-   "time": "2022-05-20 01:25:41 +0800 CST",
-   "to": "OKX"
+   "amount": 21,
+   "from": "EQA0AaR1gvpYaTeuU-U5Rht6osxyIyoSfFobYfe_tz_pTOoF",
+   "time": "2022-05-20 01:34:18 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 9,
-   "from": "EQDCQe8PhbrUIbr-PsgINUEpnEN9bs9_zRzersnlzFahbNpU",
-   "time": "2022-05-20 01:24:01 +0800 CST",
-   "to": "OKX"
+   "amount": 5.06,
+   "from": "EQB42sQhU-xjrV9kpwAdd_xL0BMSqeEfR02fmdk0V2tjmpwf",
+   "time": "2022-05-20 01:34:08 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 10,
-   "from": "EQDa9NK4j6rpVG4fsem35kQaESYermMis9F9pBPYRFeLDGXU",
-   "time": "2022-05-20 01:23:35 +0800 CST",
-   "to": "OKX"
+   "amount": 0.07,
+   "from": "EQC9omdumW_RhNAeLEzFl3nWzfeLZZJoIP1t3rY6duYtYD4Y",
+   "time": "2022-05-20 01:32:28 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 77,
-   "from": "EQC9V-jdJYgNRUtvQtDD2-pNv4B4DBSUfMxXiknnkjV8pjv_",
-   "time": "2022-05-20 01:23:18 +0800 CST",
-   "to": "OKX"
+   "amount": 5.3,
+   "from": "EQCAEXgJTn8FjtIhBz-8Ov-4QQQrdoZ3fq9vADSy0h2A-N6c",
+   "time": "2022-05-20 01:32:10 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 3452.98,
-   "from": "EQBX63RAdgShn34EAFMV73Cut7Z15lUZd1hnVva68SEl7sxi",
-   "time": "2022-05-20 01:27:03 +0800 CST",
-   "to": "EXMO Deposit"
+   "amount": 4.377,
+   "from": "EQCjjOALGhaO30io2brITZQ4xrxTWlt-w0B7KkQYGDNaGtmx",
+   "time": "2022-05-20 01:31:00 +0800 CST",
+   "to": "FTX"
   }
  ],
  "notice": []
