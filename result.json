@@ -1,28 +1,10 @@
 {
  "finalResult": [
   {
-   "amount": 249,
-   "from": "EQBExbzQZyAMugRcG43XjLxe7FNPrdmCHnu6nhG33pO-Zj2p",
-   "time": "2022-05-23 02:44:24 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 44,
-   "from": "EQCzDH1kXkVPrv4qlesizgVRaz7Upw9mQXtg-nvnMqypqf0Q",
-   "time": "2022-05-23 02:41:21 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 98.994,
-   "from": "EQAAOuAf8Scp9bD8h0CWcJRZJ5avTDy2h8JmUqHnxlIQbly3",
-   "time": "2022-05-23 02:39:49 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 38,
-   "from": "EQBAmIPWOrik5clziaABwK-WaotumfzATer7T3UgUNvjIUHt",
-   "time": "2022-05-23 02:39:06 +0800 CST",
-   "to": "OKX"
+   "amount": 24,
+   "from": "EQCuifRksMup09tKGf31O5wwmtihnmPo_pnBhAbA_4MPPBK9",
+   "time": "2022-05-23 02:47:11 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 5,
@@ -31,52 +13,16 @@
    "to": "FTX"
   },
   {
-   "amount": 16,
-   "from": "EQCCrAtPCoqwEj9J9LdSsQs0_HJbO3qQopmHp5tYhwcB_V8T",
-   "time": "2022-05-23 02:41:24 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 0.1,
-   "from": "EQDrC6xe06lPGQjNHCBE6FBtYF087NsOZH7X5h2uyrU0UjSH",
-   "time": "2022-05-23 02:39:30 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 33,
-   "from": "EQAH9O08ofTNBz6uRBUeOjfMj-fRQpabjy-H-RAEiVJgadAW",
-   "time": "2022-05-23 02:38:59 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 5.47,
-   "from": "EQBxBO8y8x6ReLp_myMNz1SLE2mhwfgtUIOC6eVFkLNCBhek",
-   "time": "2022-05-23 02:37:46 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 96,
-   "from": "EQBvwAFm6gVnB63IBUW7ixn_EdJibvQxqPUPYN2bkVcSXR4v",
-   "time": "2022-05-23 02:42:16 +0800 CST",
-   "to": "EXMO Deposit"
-  },
-  {
-   "amount": 1916,
-   "from": "EQBoZhhs4d7OZU7f2ss42Hz83BDPsHhAJ6VjOZLG8RCOAJS2",
-   "time": "2022-05-23 02:40:20 +0800 CST",
-   "to": "EXMO Deposit"
-  },
-  {
    "amount": 95.99434199,
    "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
    "time": "2022-05-23 02:43:06 +0800 CST",
    "to": "EXMO"
   },
   {
-   "amount": 1915.99434995,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-05-23 02:41:48 +0800 CST",
-   "to": "EXMO"
+   "amount": 96,
+   "from": "EQBvwAFm6gVnB63IBUW7ixn_EdJibvQxqPUPYN2bkVcSXR4v",
+   "time": "2022-05-23 02:42:16 +0800 CST",
+   "to": "EXMO Deposit"
   }
  ],
  "notice": []
