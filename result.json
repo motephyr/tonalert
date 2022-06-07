@@ -1,34 +1,94 @@
 {
  "finalResult": [
   {
-   "amount": 13.99434997,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-06-07 14:44:33 +0800 CST",
-   "to": "EXMO"
+   "amount": 4.79619,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:56 +0800 CST",
+   "to": "ETH Bridge Governance"
   },
   {
-   "amount": 76.70690112,
-   "from": "EQC1jHNIHyWigPlwWrNCS-hQYU2CMlYmPs-gSfqfuRdyDSWM",
-   "time": "2022-06-07 14:51:18 +0800 CST",
-   "to": "OKX"
+   "amount": 4.79619,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:56 +0800 CST",
+   "to": "Bridge Oracle 5"
   },
   {
-   "amount": 3.78,
-   "from": "EQDdXeLUlGMUcWFpwPGmRqMEzsstETJrflAcR_2mMtngNbav",
-   "time": "2022-06-07 14:47:46 +0800 CST",
-   "to": "OKX"
+   "amount": 4.79619,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:53 +0800 CST",
+   "to": "Bridge Oracle 3"
   },
   {
-   "amount": 50,
-   "from": "EQBtI6IbHGdUkGDzAONDrqJaDcpVOa3kvxxDFA-5yatL5W39",
-   "time": "2022-06-07 14:46:17 +0800 CST",
-   "to": "OKX"
+   "amount": 4.79619,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:50 +0800 CST",
+   "to": "Bridge Oracle 1"
   },
   {
-   "amount": 110,
-   "from": "EQBv-HAR0AVlLN1P7DrimS30fgQ7IGlAB2QKJGkujQqSnwzk",
-   "time": "2022-06-07 14:42:27 +0800 CST",
-   "to": "OKX"
+   "amount": 4.79619,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:53 +0800 CST",
+   "to": "Bridge Oracle 2"
+  },
+  {
+   "amount": 4.73592,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:56:56 +0800 CST",
+   "to": "Bridge Oracle 4"
+  },
+  {
+   "amount": 5,
+   "from": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
+   "time": "2022-06-07 14:56:56 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 5,
+   "from": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
+   "time": "2022-06-07 14:55:56 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 5,
+   "from": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
+   "time": "2022-06-07 14:55:53 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 5,
+   "from": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
+   "time": "2022-06-07 14:55:53 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 5,
+   "from": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
+   "time": "2022-06-07 14:55:50 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 5,
+   "from": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
+   "time": "2022-06-07 14:55:50 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 4.73167,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-06-07 14:55:50 +0800 CST",
+   "to": "Bridge Oracle 0"
+  },
+  {
+   "amount": 1.857,
+   "from": "EQDK7XP0dMBg2fb5PxTyRtqZvD2UGHp2w08tq2rOdnkY0Q6b",
+   "time": "2022-06-07 14:56:35 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 1,
+   "from": "EQCG8Sq8Q8HqI8BUZu33k4Qi_MewMV3Tdu_eohQJvVcWWXtI",
+   "time": "2022-06-07 14:53:26 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 5.16,
@@ -59,18 +119,6 @@
    "from": "EQClmL21WWq5pOZtnNDp40H_L75Fjqg9ujFSF3YDEn0pwz4E",
    "time": "2022-06-07 14:47:23 +0800 CST",
    "to": "FTX"
-  },
-  {
-   "amount": 25,
-   "from": "EQA8wFOr8nVYwyb1FTN5QkXEJOE4scl6GIczlT60Kc7uLPg8",
-   "time": "2022-06-07 14:45:12 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 14,
-   "from": "EQASPt7WKFpQbO0i8jiRfnzTKk_7B8Kn6vUOcrm7G9pCoQf4",
-   "time": "2022-06-07 14:43:36 +0800 CST",
-   "to": "EXMO Deposit"
   }
  ],
  "notice": []
