@@ -1,24 +1,6 @@
 {
  "finalResult": [
   {
-   "amount": 168,
-   "from": "EQDfSFIjc70wkd4SSkvXhEloT_FWJ3frB7pCnmo9_ytG1gXt",
-   "time": "2022-06-08 12:48:56 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 5.35,
-   "from": "EQDXu5883TYM8I_mtKu1UfcpAcT1OZgS2p4C75uDamLhYJey",
-   "time": "2022-06-08 12:46:26 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 405,
-   "from": "EQCeSs-a_xgyz_pIWr4851pxsghK1QAkmRVWg8O4y2yUqU95",
-   "time": "2022-06-08 12:42:26 +0800 CST",
-   "to": "FTX"
-  },
-  {
    "amount": 5.4,
    "from": "EQC4qjTZ3X8enwacMKb3nz2_RWB4BdEaiYFynwj3-3bqoX7E",
    "time": "2022-06-08 12:51:31 +0800 CST",
@@ -31,22 +13,28 @@
    "to": "OKX"
   },
   {
-   "amount": 5,
-   "from": "EQA1_OSbPmMbkBmuGxfBH0DLRpG0vYTcxPPiGAw_JtaXP48b",
-   "time": "2022-06-08 12:44:11 +0800 CST",
-   "to": "OKX"
+   "amount": 0.1,
+   "from": "EQB1Bq0YvcsyR7tL_4sL6jXyQt3EKcjMFX46Y3LXPzh-M75l",
+   "time": "2022-06-08 12:55:52 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 2.44,
-   "from": "EQA7vHzvapgN3a9aI1ZtNDxUF_Dy5ooQMEJHMyNx4AQWII8z",
-   "time": "2022-06-08 12:43:28 +0800 CST",
-   "to": "OKX"
+   "amount": 606.3,
+   "from": "EQDkagFgH84B5JKIG5RALVHDiQjKGvt0Xv23l0yUS4D12ggo",
+   "time": "2022-06-08 12:54:29 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 5.8,
-   "from": "EQB8sVNSCLDfbjq8eHeg7wvut8sTcL0v9Nx-Zj9LKRPQzayA",
-   "time": "2022-06-08 12:42:45 +0800 CST",
-   "to": "OKX"
+   "amount": 2.5,
+   "from": "EQBlTI7v6142CakJYHzikSW5R-48KNAjsh3kz9f2ZEg3-CcS",
+   "time": "2022-06-08 12:52:29 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 168,
+   "from": "EQDfSFIjc70wkd4SSkvXhEloT_FWJ3frB7pCnmo9_ytG1gXt",
+   "time": "2022-06-08 12:48:56 +0800 CST",
+   "to": "FTX"
   }
  ],
  "notice": []
