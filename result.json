@@ -1,10 +1,16 @@
 {
  "finalResult": [
   {
-   "amount": 21.29434999,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-06-08 13:39:22 +0800 CST",
-   "to": "EXMO"
+   "amount": 1.21,
+   "from": "EQDPw-F816auT8cxIk0gvPz8fjZHs12PrHGNNYe6A2B0G03a",
+   "time": "2022-06-08 13:49:57 +0800 CST",
+   "to": "OKX"
+  },
+  {
+   "amount": 6,
+   "from": "EQDZr0pIVimOtLq-lt2HCF7h4SG6brwEpBuiLYiS15t3EG-R",
+   "time": "2022-06-08 13:47:42 +0800 CST",
+   "to": "OKX"
   },
   {
    "amount": 6.19,
@@ -17,12 +23,6 @@
    "from": "EQBdK-lVcHJXy1I0afD1rwEM2fTtWXBNXwJNVIw1zCFfFQQw",
    "time": "2022-06-08 13:42:21 +0800 CST",
    "to": "OKX"
-  },
-  {
-   "amount": 21.3,
-   "from": "EQDQ2C4-H8aVOVNcJA1S-MGpikUPf_5dpz64jzSL5nvA7GXk",
-   "time": "2022-06-08 13:38:03 +0800 CST",
-   "to": "EXMO Deposit"
   },
   {
    "amount": 4,
@@ -46,30 +46,6 @@
    "amount": 69,
    "from": "EQDV0lE5et3kOJ53j9waUCN7g-k3TUUyB_5wvhXm6Yq3jsep",
    "time": "2022-06-08 13:42:43 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 1.07122842,
-   "from": "EQBWFqi0KUHNvU8r4xfJhssF62mitjOaoCThkIHHmKK9-VRN",
-   "time": "2022-06-08 13:41:34 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 7.8,
-   "from": "EQC3iflK3MhHJo9YZdQRnfuV7xDr2BCOvCNIxOdPCxCzxt8K",
-   "time": "2022-06-08 13:40:58 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 0.03,
-   "from": "EQBnMGus-PoD2mw4GCW4balnyxW_Z-IApWcwgtGcEZ9L7J3f",
-   "time": "2022-06-08 13:38:54 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 12,
-   "from": "EQBZsaWYbFodfn_3OybLhvfPsj_YEaRTNm6CMa-VK8Jfv07H",
-   "time": "2022-06-08 13:38:18 +0800 CST",
    "to": "FTX"
   }
  ],
