@@ -1,22 +1,16 @@
 {
  "finalResult": [
   {
-   "amount": 41,
-   "from": "EQBL9ZY66WTuqUi26SPUT7bD_BdrBC4-0KWJmq6fStBXzv-K",
-   "time": "2022-06-09 10:41:59 +0800 CST",
-   "to": "FTX"
+   "amount": 6.8,
+   "from": "EQAr0fxWH_vkTtYQtvX3rCdz_Y2AINFHVgJlZeZPSFG1ulYe",
+   "time": "2022-06-09 10:48:03 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 120.2,
-   "from": "EQAUXDDGi_DPxlRIN4RZZ29FokfjXhqYwjaT-oejpdXRGVyO",
-   "time": "2022-06-09 10:36:26 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 20,
-   "from": "EQCU63CioWBfHZ7wS46YcuafKzOFM7WAjAhnyFlHOdwnrlsL",
-   "time": "2022-06-09 10:35:32 +0800 CST",
-   "to": "FTX"
+   "amount": 25,
+   "from": "EQDWN6FATpiz7e_D3DJcn4bNcRJQTvEZfJlde9UpnpQ2WS0g",
+   "time": "2022-06-09 10:44:56 +0800 CST",
+   "to": "OKX"
   },
   {
    "amount": 7.4,
@@ -35,6 +29,18 @@
    "from": "EQAph8c2gIbWCGnIVeJr4VJQ3eGztnejKs4Iwr4vPCBexZXS",
    "time": "2022-06-09 10:43:49 +0800 CST",
    "to": "OKX"
+  },
+  {
+   "amount": 41,
+   "from": "EQBL9ZY66WTuqUi26SPUT7bD_BdrBC4-0KWJmq6fStBXzv-K",
+   "time": "2022-06-09 10:41:59 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 41,
+   "from": "EQBL9ZY66WTuqUi26SPUT7bD_BdrBC4-0KWJmq6fStBXzv-K",
+   "time": "2022-06-09 10:41:59 +0800 CST",
+   "to": "BSC Bridge Collector"
   }
  ],
  "notice": []
