@@ -1,34 +1,22 @@
 {
  "finalResult": [
   {
-   "amount": 10,
-   "from": "EQB8GB1DIFMJU_AYbCu12sTeTT6_6_Vda05FbAi6t76pb8Dj",
-   "time": "2022-06-10 01:26:11 +0800 CST",
-   "to": "FTX"
+   "amount": 9.1,
+   "from": "EQBbRqq8T-ei8VDw2PVMTknjpeAbJj5FiJKfRxredGLHCvk0",
+   "time": "2022-06-10 01:34:13 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 4,
-   "from": "EQBY6_8LTWXE1iS0XW6Cc7K-Acuszb7s7GD9-ti2G_s7e0pd",
-   "time": "2022-06-10 01:25:48 +0800 CST",
-   "to": "FTX"
+   "amount": 24,
+   "from": "EQCH55IEtFuuQYGQnO1q4FU72CCbMOEfm_UYNPIDJbluCAmO",
+   "time": "2022-06-10 01:32:18 +0800 CST",
+   "to": "OKX"
   },
   {
-   "amount": 1.36,
-   "from": "EQC5MhpOUnwba3W_xTPQC3HBTwJbLzs5xYi4RT83swGU4v4w",
-   "time": "2022-06-10 01:24:52 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 1516.15808219,
-   "from": "EQAA_6-p-z1Pg3gkQ20ZlTx5K-ZjKvc6m4LE3GnKBxlQh-Jl",
-   "time": "2022-06-10 01:21:14 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 16.28,
-   "from": "EQBxfLlR0bAAkwVefoUs2kwiQUFTQLMd7x4-l5BHRx3arwfK",
-   "time": "2022-06-10 01:19:55 +0800 CST",
-   "to": "FTX"
+   "amount": 21,
+   "from": "EQBEK8ZnCASmjxKRrlp6hEsz5sLfVbWM514HcZ89QCdquzy-",
+   "time": "2022-06-10 01:31:46 +0800 CST",
+   "to": "OKX"
   },
   {
    "amount": 72.81,
@@ -49,16 +37,28 @@
    "to": "OKX"
   },
   {
-   "amount": 321,
-   "from": "EQDHeqfiBGddE3UXOmNGTGEUsEakt01hWDHvvH31Gl2-PEXr",
-   "time": "2022-06-10 01:21:24 +0800 CST",
-   "to": "OKX"
+   "amount": 11.44365547,
+   "from": "EQDhZEqTspA3w4cDyK3LDv8Md4IntRnzsxDT02pvgA-9X32x",
+   "time": "2022-06-10 01:34:30 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 19,
-   "from": "EQBalyBuogIuGHJU5SUhLHC8TWChjPlotFMZVPOfTUvmRF7o",
-   "time": "2022-06-10 01:20:45 +0800 CST",
-   "to": "OKX"
+   "amount": 3.16,
+   "from": "EQANR2kKuP18Xs-OgdoLLdzF64Zkn1IXV_Bubf3a_xIoDfkr",
+   "time": "2022-06-10 01:31:37 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 11.44365547,
+   "from": "EQDhZEqTspA3w4cDyK3LDv8Md4IntRnzsxDT02pvgA-9X32x",
+   "time": "2022-06-10 01:34:30 +0800 CST",
+   "to": "Bridge Oracle 0"
+  },
+  {
+   "amount": 3.16,
+   "from": "EQANR2kKuP18Xs-OgdoLLdzF64Zkn1IXV_Bubf3a_xIoDfkr",
+   "time": "2022-06-10 01:31:37 +0800 CST",
+   "to": "Bridge Oracle 0"
   }
  ],
  "notice": []
