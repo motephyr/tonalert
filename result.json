@@ -1,22 +1,22 @@
 {
  "finalResult": [
   {
+   "amount": 40.48,
+   "from": "EQDe4isdDHnIT5NX0tpciNZdiRF8Z-eOW5Y7fiMOLCZCmrW5",
+   "time": "2022-07-05 10:51:24 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 40.48,
+   "from": "EQDe4isdDHnIT5NX0tpciNZdiRF8Z-eOW5Y7fiMOLCZCmrW5",
+   "time": "2022-07-05 10:51:24 +0800 CST",
+   "to": "ETH Bridge Governance"
+  },
+  {
    "amount": 0.058,
    "from": "EQChhT5b0HzqEJlAnEJVnRpgvyuyBJmm8LE0ZnrPd6gJJlS3",
    "time": "2022-07-05 10:44:17 +0800 CST",
    "to": "OKX"
-  },
-  {
-   "amount": 0.058,
-   "from": "EQChhT5b0HzqEJlAnEJVnRpgvyuyBJmm8LE0ZnrPd6gJJlS3",
-   "time": "2022-07-05 10:44:17 +0800 CST",
-   "to": "Bridge Oracle 8"
-  },
-  {
-   "amount": 80.5,
-   "from": "EQDnzdwPoDScxRMoXyyYyEyU-lfEkPjCYab1NMI4I4YmWk8l",
-   "time": "2022-07-05 10:47:41 +0800 CST",
-   "to": "FTX"
   }
  ],
  "notice": []
