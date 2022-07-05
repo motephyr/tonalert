@@ -1,28 +1,16 @@
 {
  "finalResult": [
   {
-   "amount": 26.2,
-   "from": "EQDQn3b-WMUY6bQgPLG01KDKFG6YKluvTDv3LGLY7D4XJEaj",
-   "time": "2022-07-05 13:11:57 +0800 CST",
-   "to": "OKX"
+   "amount": 43.696,
+   "from": "EQAttgwokMQ3FNKf8ll1ynXnlLi8RJLu2D0SsFwwpmUFt5AT",
+   "time": "2022-07-05 13:18:57 +0800 CST",
+   "to": "FTX"
   },
   {
-   "amount": 0.03,
-   "from": "EQAcBTDaF41Ae4PehA6c0bepw8aouCbCuJUxrvgWvKXrVMmN",
-   "time": "2022-07-05 13:10:38 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 15.2,
-   "from": "EQASEBJABxzrocDpjYh5fmBFTbzdT5DSE01eP5y2-MXiFBHr",
-   "time": "2022-07-05 13:09:33 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 0.96,
-   "from": "EQA3ZKD8EKdk8Q9i0MtXV0JGf9HumokXyatFFEUC4hL9u7IC",
-   "time": "2022-07-05 13:07:25 +0800 CST",
-   "to": "OKX"
+   "amount": 1,
+   "from": "EQAttgwokMQ3FNKf8ll1ynXnlLi8RJLu2D0SsFwwpmUFt5AT",
+   "time": "2022-07-05 13:16:14 +0800 CST",
+   "to": "FTX"
   },
   {
    "amount": 86.8,
@@ -37,16 +25,40 @@
    "to": "FTX"
   },
   {
-   "amount": 5,
-   "from": "EQD_X7-k2kpiTBfiGQSL3Kgjjk78_Vfg5lOE1OX0f-rq9yHO",
-   "time": "2022-07-05 13:06:42 +0800 CST",
-   "to": "FTX"
+   "amount": 99.95,
+   "from": "EQBmPlNhSfY9qOEalNCKwQ_2kOC2b_2T1MM5-uCiIOJKSbvJ",
+   "time": "2022-07-05 13:16:54 +0800 CST",
+   "to": "BSC Bridge Governance"
   },
   {
-   "amount": 23.3,
-   "from": "EQDQSt26c71PUAGuFff9_-OHUxV0B93nNer-YTcXf3_-WgMM",
-   "time": "2022-07-05 13:06:25 +0800 CST",
-   "to": "FTX"
+   "amount": 26.2,
+   "from": "EQDQn3b-WMUY6bQgPLG01KDKFG6YKluvTDv3LGLY7D4XJEaj",
+   "time": "2022-07-05 13:11:57 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 0.03,
+   "from": "EQAcBTDaF41Ae4PehA6c0bepw8aouCbCuJUxrvgWvKXrVMmN",
+   "time": "2022-07-05 13:10:38 +0800 CST",
+   "to": "BSC Bridge Governance"
+  },
+  {
+   "amount": 99.95,
+   "from": "EQBmPlNhSfY9qOEalNCKwQ_2kOC2b_2T1MM5-uCiIOJKSbvJ",
+   "time": "2022-07-05 13:16:54 +0800 CST",
+   "to": "OKX"
+  },
+  {
+   "amount": 26.2,
+   "from": "EQDQn3b-WMUY6bQgPLG01KDKFG6YKluvTDv3LGLY7D4XJEaj",
+   "time": "2022-07-05 13:11:57 +0800 CST",
+   "to": "OKX"
+  },
+  {
+   "amount": 0.03,
+   "from": "EQAcBTDaF41Ae4PehA6c0bepw8aouCbCuJUxrvgWvKXrVMmN",
+   "time": "2022-07-05 13:10:38 +0800 CST",
+   "to": "OKX"
   }
  ],
  "notice": []
