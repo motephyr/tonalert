@@ -1,10 +1,28 @@
 {
  "finalResult": [
   {
-   "amount": 86,
-   "from": "EQA6PhT7sBOF0WoJhMvu-p5R2WRUrHplOVRuEerABsoLG2Z7",
-   "time": "2022-07-05 15:37:06 +0800 CST",
+   "amount": 0.5,
+   "from": "EQDVXjNcttZNchOE3A41iZWVUblfkrVl03arEjGPtt6BuWkp",
+   "time": "2022-07-05 15:44:50 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 15.1,
+   "from": "EQAFp6LmAWHVuUrtttuQmVxXLbgyYT8MbyeFZYbAXYxBSfz-",
+   "time": "2022-07-05 15:44:35 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 40.3615,
+   "from": "EQC8jyy0vlW3lmb_C1TqTkrLZlIVb19-fY0yyrhLDAGAKQzU",
+   "time": "2022-07-05 15:46:39 +0800 CST",
    "to": "OKX"
+  },
+  {
+   "amount": 40.3615,
+   "from": "EQC8jyy0vlW3lmb_C1TqTkrLZlIVb19-fY0yyrhLDAGAKQzU",
+   "time": "2022-07-05 15:46:39 +0800 CST",
+   "to": "ETH Bridge"
   }
  ],
  "notice": []
