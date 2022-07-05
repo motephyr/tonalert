@@ -1,12 +1,6 @@
 {
  "finalResult": [
   {
-   "amount": 29.19,
-   "from": "EQD1VernRqTu4fp-bT2sG7kZYtMV0AGOSOg6eN5vMkg9QBmV",
-   "time": "2022-07-05 16:31:50 +0800 CST",
-   "to": "OKX"
-  },
-  {
    "amount": 4869.9943498,
    "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
    "time": "2022-07-05 16:29:41 +0800 CST",
@@ -19,16 +13,28 @@
    "to": "EXMO Deposit"
   },
   {
+   "amount": 18.335,
+   "from": "EQDpYtmnPguag0SxzZaNRaF7ORjr5F_AZPfHkwoC6-m-VxgP",
+   "time": "2022-07-05 16:35:44 +0800 CST",
+   "to": "FTX"
+  },
+  {
    "amount": 84.7,
    "from": "EQDjh-jCYx0Ph-u-SrSxgrfNRArrsnJm1RyB5v8Vt9mePIST",
    "time": "2022-07-05 16:32:01 +0800 CST",
    "to": "FTX"
   },
   {
-   "amount": 0.9,
-   "from": "EQDZhc915RYSCc7Il_WfSPGd-xGn-BA9IDYDyumr0Nj1qnOB",
-   "time": "2022-07-05 16:25:26 +0800 CST",
-   "to": "FTX"
+   "amount": 2.4336,
+   "from": "EQBhuuU758svDcwdaIn5wpyAWAIu_yTKTYuBFq2Hi6RNJvbs",
+   "time": "2022-07-05 16:34:37 +0800 CST",
+   "to": "OKX"
+  },
+  {
+   "amount": 29.19,
+   "from": "EQD1VernRqTu4fp-bT2sG7kZYtMV0AGOSOg6eN5vMkg9QBmV",
+   "time": "2022-07-05 16:31:50 +0800 CST",
+   "to": "OKX"
   }
  ],
  "notice": []
