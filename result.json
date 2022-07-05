@@ -1,22 +1,16 @@
 {
  "finalResult": [
   {
+   "amount": 455,
+   "from": "EQBnHxEnxNPgt6GbjBKDuNzicguPkuD7QNHW5rs369Mr18qE",
+   "time": "2022-07-05 16:17:58 +0800 CST",
+   "to": "BSC Bridge"
+  },
+  {
    "amount": 5.3,
    "from": "EQAQZyEm-OnLBQ9jVU-u2R3u5Z0UAAE5coFxToECQjeYaqFQ",
    "time": "2022-07-05 16:09:41 +0800 CST",
    "to": "FTX"
-  },
-  {
-   "amount": 785,
-   "from": "EQDulqbjDoDSji_78Vbj6n1Y0_aC5QG5zYTlCgW3XOhYREh9",
-   "time": "2022-07-05 16:08:05 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 6.65,
-   "from": "EQAKexJ48wS5SXy3BMgp0m4T-qYtLtgOwZCeGcfI2zkfQPFN",
-   "time": "2022-07-05 16:07:53 +0800 CST",
-   "to": "OKX"
   }
  ],
  "notice": []
