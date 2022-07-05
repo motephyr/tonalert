@@ -1,16 +1,10 @@
 {
  "finalResult": [
   {
-   "amount": 1,
-   "from": "EQCCBVJ19EaZGfIUtwmwjtgPZe1qP9UWmYpQ3GHvKGkl1dZs",
-   "time": "2022-07-06 03:18:48 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 500,
-   "from": "EQDh7C7K0NDelBDEKSGL3yzQxyHipLfJ4YGnm1cGT5FHKJFO",
-   "time": "2022-07-06 03:15:31 +0800 CST",
-   "to": "OKX"
+   "amount": 22.79434987,
+   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
+   "time": "2022-07-06 03:19:37 +0800 CST",
+   "to": "EXMO"
   },
   {
    "amount": 17,
@@ -35,48 +29,6 @@
    "from": "EQDCTe0HT0JJBJWhLuwwx17viHcoydN1Pl8JMMFb5Ny3Uk68",
    "time": "2022-07-06 03:19:22 +0800 CST",
    "to": "FTX"
-  },
-  {
-   "amount": 248,
-   "from": "EQDpNqgwGeK6T7Qri_bohnDqWIXM1WsRbgY5wBHwKNZZ8Pwd",
-   "time": "2022-07-06 03:17:22 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 0.151,
-   "from": "EQCmhRH1fjv_tJRMk97hRCsaWaAY6hgk-6gKnplgKH1EfiRk",
-   "time": "2022-07-06 03:16:49 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 197.98,
-   "from": "EQC6wX4H3Ygi-LG5jkRk3bwFKR8cThLsIiigsUFa0itlwyZc",
-   "time": "2022-07-06 03:15:59 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 27,
-   "from": "EQCmhRH1fjv_tJRMk97hRCsaWaAY6hgk-6gKnplgKH1EfiRk",
-   "time": "2022-07-06 03:14:55 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 22.79434987,
-   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
-   "time": "2022-07-06 03:19:37 +0800 CST",
-   "to": "EXMO"
-  },
-  {
-   "amount": 22.8,
-   "from": "EQB-gCVPkgPp43Tb1DhgirxTSaJZy4AuT3GRUj4vM7kTRri8",
-   "time": "2022-07-06 03:17:40 +0800 CST",
-   "to": "Bridge Oracle 6"
-  },
-  {
-   "amount": 22.8,
-   "from": "EQB-gCVPkgPp43Tb1DhgirxTSaJZy4AuT3GRUj4vM7kTRri8",
-   "time": "2022-07-06 03:17:40 +0800 CST",
-   "to": "EXMO Deposit"
   }
  ],
  "notice": []
