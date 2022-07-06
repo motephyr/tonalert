@@ -1,10 +1,28 @@
 {
  "finalResult": [
   {
-   "amount": 100,
-   "from": "EQCCFZpUcC7j0zIhT1UCoPIJTx7i9W6Ttu3z2vhGo0WyF2J5",
-   "time": "2022-07-06 17:40:21 +0800 CST",
+   "amount": 70,
+   "from": "EQDAnzzSCEpUY54TmAnrGCOH8hHUblMpV7U9FW2Xm6Pn3aHn",
+   "time": "2022-07-06 17:53:08 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 28,
+   "from": "EQAUv3F_rEMaa3vqdBDah-z2qPE2sZJ1L8TpHLf8YfuMToPB",
+   "time": "2022-07-06 17:50:10 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 21,
+   "from": "EQDRWBhJ_4oyUB8RO8uhdM1CLufNbOUVvECXvMqyWCoU0gDb",
+   "time": "2022-07-06 17:51:08 +0800 CST",
    "to": "OKX"
+  },
+  {
+   "amount": 21,
+   "from": "EQDRWBhJ_4oyUB8RO8uhdM1CLufNbOUVvECXvMqyWCoU0gDb",
+   "time": "2022-07-06 17:51:08 +0800 CST",
+   "to": "Bridge Oracle 5"
   }
  ],
  "notice": []
