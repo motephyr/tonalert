@@ -37,6 +37,42 @@
    "to": "BSC Bridge Governance"
   },
   {
+   "amount": 4.61347,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-07-08 18:05:33 +0800 CST",
+   "to": "Bridge Oracle 2"
+  },
+  {
+   "amount": 4.78369,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-07-08 18:05:40 +0800 CST",
+   "to": "Bridge Oracle 1"
+  },
+  {
+   "amount": 24.6,
+   "from": "EQAgUolcYmtbqDeL2o_aB7Eu7WHn-rNK_1Xoe_vxcZ26R4VE",
+   "time": "2022-07-08 18:02:23 +0800 CST",
+   "to": "OKX"
+  },
+  {
+   "amount": 4.72417,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-07-08 18:05:40 +0800 CST",
+   "to": "Bridge Oracle 0"
+  },
+  {
+   "amount": 0.5,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-07-08 18:05:40 +0800 CST",
+   "to": "BSC Bridge"
+  },
+  {
+   "amount": 4.78369,
+   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
+   "time": "2022-07-08 18:05:36 +0800 CST",
+   "to": "Bridge Oracle 5"
+  },
+  {
    "amount": 4.78369,
    "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
    "time": "2022-07-08 18:05:36 +0800 CST",
@@ -46,43 +82,7 @@
    "amount": 4.78369,
    "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
    "time": "2022-07-08 18:05:36 +0800 CST",
-   "to": "Bridge Oracle 5"
-  },
-  {
-   "amount": 4.72417,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-08 18:05:40 +0800 CST",
-   "to": "Bridge Oracle 0"
-  },
-  {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-08 18:05:40 +0800 CST",
-   "to": "Bridge Oracle 1"
-  },
-  {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-08 18:05:33 +0800 CST",
-   "to": "Bridge Oracle 3"
-  },
-  {
-   "amount": 0.5,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-08 18:05:40 +0800 CST",
-   "to": "BSC Bridge"
-  },
-  {
-   "amount": 24.6,
-   "from": "EQAgUolcYmtbqDeL2o_aB7Eu7WHn-rNK_1Xoe_vxcZ26R4VE",
-   "time": "2022-07-08 18:02:23 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 4.61347,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-08 18:05:33 +0800 CST",
-   "to": "Bridge Oracle 2"
+   "to": "BSC Bridge Collector"
   }
  ],
  "notice": []
