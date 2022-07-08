@@ -4,13 +4,19 @@
    "amount": 45,
    "from": "EQCLbHmWZUNlxL4WwVZnA7VTA5leqL_l4GnwPoetO5vxfKP2",
    "time": "2022-07-08 13:38:14 +0800 CST",
-   "to": "EXMO Cold Storage 2"
+   "to": "OKX"
   },
   {
-   "amount": 45,
-   "from": "EQCLbHmWZUNlxL4WwVZnA7VTA5leqL_l4GnwPoetO5vxfKP2",
-   "time": "2022-07-08 13:38:14 +0800 CST",
-   "to": "OKX"
+   "amount": 5.99434081,
+   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
+   "time": "2022-07-08 13:43:41 +0800 CST",
+   "to": "Bridge Oracle 6"
+  },
+  {
+   "amount": 5.99434081,
+   "from": "EQABMMdzRuntgt9nfRB61qd1wR-cGPagXA3ReQazVYUNrT7p",
+   "time": "2022-07-08 13:43:41 +0800 CST",
+   "to": "EXMO"
   },
   {
    "amount": 10.854974165,
@@ -19,16 +25,10 @@
    "to": "FTX"
   },
   {
-   "amount": 112,
-   "from": "EQBztWXaMK0vp4WFoBqVJcppX6WJmC271gT9vhrxnKcYbYGJ",
-   "time": "2022-07-08 13:35:41 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 434.88116597,
-   "from": "EQBFzo5QHPekfc2zOwe1XKdTabIdel4od7BuxachWaePQJuC",
-   "time": "2022-07-08 13:31:07 +0800 CST",
-   "to": "FTX"
+   "amount": 6,
+   "from": "EQCdxq_368q16yVduSAFMtyd_vm5SKBjyncTTeXB5-d7okt0",
+   "time": "2022-07-08 13:42:23 +0800 CST",
+   "to": "EXMO Deposit"
   }
  ],
  "notice": []
