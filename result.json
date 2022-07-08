@@ -1,40 +1,22 @@
 {
  "finalResult": [
   {
+   "amount": 9.048926,
+   "from": "EQBiwEun71c0NLweslZcjJ2Y3laqXYHmtLpiPrvBJ2arsd0p",
+   "time": "2022-07-09 00:52:53 +0800 CST",
+   "to": "EXMO Deposit"
+  },
+  {
    "amount": 0.08,
    "from": "EQA_MiDCjnNFu5EdrE6DKjaxMC8ywaSjpOI_7RKEVfbJbwnV",
    "time": "2022-07-09 00:50:20 +0800 CST",
-   "to": "ETH Bridge"
+   "to": "OKX"
   },
   {
    "amount": 6.5,
    "from": "EQD7rr1aIB1TavJiWZfOBonXRfxF9CSUwEfjjtFSns0_MGh_",
    "time": "2022-07-09 00:47:41 +0800 CST",
-   "to": "ETH Bridge"
-  },
-  {
-   "amount": 4405,
-   "from": "EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ",
-   "time": "2022-07-09 00:47:30 +0800 CST",
-   "to": "ETH Bridge"
-  },
-  {
-   "amount": 8.3,
-   "from": "EQA_MiDCjnNFu5EdrE6DKjaxMC8ywaSjpOI_7RKEVfbJbwnV",
-   "time": "2022-07-09 00:46:44 +0800 CST",
-   "to": "ETH Bridge"
-  },
-  {
-   "amount": 37,
-   "from": "EQDe350iTfmhpyXDQK7EqOM_PaDKCZDoAhC6MHgzgBunDbfm",
-   "time": "2022-07-09 00:46:02 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 3,
-   "from": "EQCirAm3yrZ8UFo8G0Mi78IeYRv2Kmk_twnP0Hvl0Ih6VzmP",
-   "time": "2022-07-09 00:43:06 +0800 CST",
-   "to": "FTX"
+   "to": "OKX"
   }
  ],
  "notice": []
