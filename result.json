@@ -7,82 +7,88 @@
    "to": "OKX"
   },
   {
-   "amount": 30,
-   "from": "EQBpj2_dhg0pHkzCj9PAotQxXh1dWRGrKvW_ZMlOT0L8xUTV",
-   "time": "2022-07-11 20:21:41 +0800 CST",
-   "to": "OKX"
-  },
-  {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "Bridge Oracle 4"
-  },
-  {
-   "amount": 4.64662,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "Bridge Oracle 3"
-  },
-  {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:22:02 +0800 CST",
+   "amount": 4.967203,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:35:25 +0800 CST",
    "to": "Bridge Oracle 0"
   },
   {
-   "amount": 0.5,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:22:02 +0800 CST",
+   "amount": 197,
+   "from": "EQA2qwmAsNfv1dhR3kDs4WX1yfNEPO8quo9MsCOWdSFtM__O",
+   "time": "2022-07-11 20:31:14 +0800 CST",
    "to": "BSC Bridge"
   },
   {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:21:55 +0800 CST",
+   "amount": 4.967703,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:33:20 +0800 CST",
    "to": "Bridge Oracle 5"
   },
   {
-   "amount": 4.78369,
-   "from": "Ef8OvX_5ynDgbp4iqJIvWudSEanWo0qAlOjhWHtga9u2YjVp",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "Bridge Oracle 2"
+   "amount": 4.967603,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:32:52 +0800 CST",
+   "to": "Bridge Oracle 4"
   },
   {
    "amount": 5,
    "from": "Ef8DfObDUrNqz66pr_7xMbUYckUFbIIvRh1FSNeVSLWrvo1M",
-   "time": "2022-07-11 20:22:02 +0800 CST",
-   "to": "BSC Bridge Governance"
+   "time": "2022-07-11 20:35:24 +0800 CST",
+   "to": "BSC Bridge Collector"
   },
   {
    "amount": 5,
    "from": "Ef_P2CJw784O1qVd8Qbn8RCQc4EgxAs8Ra-M3bDhZn3OfzRb",
-   "time": "2022-07-11 20:22:02 +0800 CST",
-   "to": "BSC Bridge Governance"
-  },
-  {
-   "amount": 5,
-   "from": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "BSC Bridge Governance"
-  },
-  {
-   "amount": 5,
-   "from": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "BSC Bridge Governance"
+   "time": "2022-07-11 20:35:19 +0800 CST",
+   "to": "BSC Bridge Collector"
   },
   {
    "amount": 5,
    "from": "Ef93olLWqh1OuBSTOnJKWZ4NwxNq_ELK55_h_laNPVwxcEro",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "BSC Bridge Governance"
+   "time": "2022-07-11 20:33:12 +0800 CST",
+   "to": "BSC Bridge Collector"
+  },
+  {
+   "amount": 5,
+   "from": "Ef8JKqx4I-XECLuVhTqeY1WMgbgTp8Ld3mzN-JUogBF4ZEW-",
+   "time": "2022-07-11 20:33:12 +0800 CST",
+   "to": "BSC Bridge Collector"
+  },
+  {
+   "amount": 5,
+   "from": "Ef_uJVTTToU8b3o7-Jr5pcUqenxWzDNYpyklvhl73KSIA17M",
+   "time": "2022-07-11 20:32:42 +0800 CST",
+   "to": "BSC Bridge Collector"
   },
   {
    "amount": 5,
    "from": "Ef8voAFh-ByCeKD3SZhjMNzioqCmDOK6S6IaeefTwYmRhgsn",
-   "time": "2022-07-11 20:21:55 +0800 CST",
-   "to": "BSC Bridge Governance"
+   "time": "2022-07-11 20:32:42 +0800 CST",
+   "to": "BSC Bridge Collector"
+  },
+  {
+   "amount": 1,
+   "from": "EQBfAN7LfaUYgXZNw5Wc7GBgkEX2yhuJ5ka95J1JJwXXf4a8",
+   "time": "2022-07-11 20:32:42 +0800 CST",
+   "to": "FTX"
+  },
+  {
+   "amount": 4.968622,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:32:52 +0800 CST",
+   "to": "Bridge Oracle 3"
+  },
+  {
+   "amount": 4.967003,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:33:20 +0800 CST",
+   "to": "Bridge Oracle 2"
+  },
+  {
+   "amount": 4.966403,
+   "from": "EQAHI1vGuw7d4WG-CtfDrWqEPNtmUuKjKFEFeJmZaqqfWTvW",
+   "time": "2022-07-11 20:35:30 +0800 CST",
+   "to": "Bridge Oracle 1"
   }
  ],
  "notice": []
