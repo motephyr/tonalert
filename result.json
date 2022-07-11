@@ -1,28 +1,16 @@
 {
  "finalResult": [
   {
+   "amount": 5.614,
+   "from": "EQAfQv_oS2tiFTa6w62DO0yCWiUpTPToiYtqkqiowJAcDu8Y",
+   "time": "2022-07-11 14:51:22 +0800 CST",
+   "to": "OKX"
+  },
+  {
    "amount": 999,
    "from": "EQCkLnb08OCgYS9ffwQd7eA34IMO2sV6K802dzGej-ZEW6iZ",
    "time": "2022-07-11 14:43:58 +0800 CST",
    "to": "OKX"
-  },
-  {
-   "amount": 13.57,
-   "from": "EQAZj1kjbA5RGB9hiitTg18zqQuUceE9uNQWf-9tWalIRB5m",
-   "time": "2022-07-11 14:40:25 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 52.1,
-   "from": "EQCzzUJAoCSNcInfR3DsXD5BQ0fVSUicbhyhFgMwiK7i1D1l",
-   "time": "2022-07-11 14:38:19 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 119.85,
-   "from": "EQAKo8uJHLK--3bMzsVfXe5_cCNDlR_UBl3wmBUGpq0TYLgC",
-   "time": "2022-07-11 14:37:45 +0800 CST",
-   "to": "FTX"
   }
  ],
  "notice": []
