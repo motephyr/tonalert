@@ -1,6 +1,12 @@
 {
  "finalResult": [
   {
+   "amount": 109.2652,
+   "from": "EQDDBtfRL4zA70QJpoCBrGWLDBzbt5HkAwfOxLdrYnN8O3Ap",
+   "time": "2022-07-11 19:50:10 +0800 CST",
+   "to": "OKX"
+  },
+  {
    "amount": 114.88,
    "from": "EQD1o-gkJ6XL-5Zo0m8xhC76nuHq-v5ZWZwghXH6tHn7ro29",
    "time": "2022-07-11 19:42:47 +0800 CST",
@@ -13,21 +19,9 @@
    "to": "OKX"
   },
   {
-   "amount": 10,
-   "from": "EQDDBtfRL4zA70QJpoCBrGWLDBzbt5HkAwfOxLdrYnN8O3Ap",
-   "time": "2022-07-11 19:40:26 +0800 CST",
-   "to": "OKX"
-  },
-  {
    "amount": 185,
    "from": "EQBusDtNZ7NDbctyzgN-eX_RXJFpOI15PITGjbwykxCUnlUW",
    "time": "2022-07-11 19:44:08 +0800 CST",
-   "to": "FTX"
-  },
-  {
-   "amount": 89,
-   "from": "EQC3sjrJmqFSH3OwqfsjR8OeIudBgz9gSQyBXuoAdfjvl_L3",
-   "time": "2022-07-11 19:38:36 +0800 CST",
    "to": "FTX"
   }
  ],
